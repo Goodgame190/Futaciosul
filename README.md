@@ -1,6 +1,6 @@
 # Futaciosul
 
-`git clone https://github.com/albertobsd/keysubtracter.git`
+`git clone https://github.com/Goodgame190/Futaciosul
 
 Compileaza
 `make`
